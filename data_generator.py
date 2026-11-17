@@ -1,3 +1,17 @@
+# EV Powertrain Digital Twin Dashboard
+# Copyright (C) 2026 Kashif Jawad Mazhar
+#
+# This program is free software: and can be redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+#
+# I have received a copy of the GNU General Public License
+# along with this program.
 # =============================================================================
 # data_generator.py
 # Ye file EV ka dummy WLTP-based data banati hai (jab tak real data na aaye)
